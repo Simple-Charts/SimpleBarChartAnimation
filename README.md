@@ -2,7 +2,7 @@
   This is the simplified source code for creating a bar chart race animation.  
 
 ## Example  
-[![Simple Charts / COVID-19 New Cases](http://img.youtube.com/vi/QRcETyiTz3o/0.jpg)](https://www.youtube.com/watch?v=QRcETyiTz3o)
+  [![Simple Charts / COVID-19 New Cases](http://img.youtube.com/vi/QRcETyiTz3o/0.jpg)](https://www.youtube.com/watch?v=QRcETyiTz3o)
 
 ## Data Source
   1. COVID-19 Dataset by Our World in Data  
