@@ -1,5 +1,5 @@
 # Simple Bar Chart Race  
-  This is the simplified source code for creationg a bar chart race animation.  
+  This is the simplified source code for creating a bar chart race animation.  
   
 ## Setup
 
