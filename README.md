@@ -1,4 +1,4 @@
-# SimpleBarChartRace
+# Simple Bar Chart Race
 
 ## Setup
 
