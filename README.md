@@ -2,7 +2,8 @@
   This is the simplified source code for creating a bar chart race animation.  
 
 ## Data Source
-
+  1. COVID-19  
+     https://github.com/owid/covid-19-data
 
 ## Setup  
   1. install Anaconda3-2020.02  
