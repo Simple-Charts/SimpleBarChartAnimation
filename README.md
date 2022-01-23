@@ -2,7 +2,7 @@
   This is the simplified source code for creating a bar chart race animation.  
 
 ## Data Source
-  1. COVID-19  
+  1. COVID-19 Dataset by Our World in Data 
      https://github.com/owid/covid-19-data
 
 ## Setup  
