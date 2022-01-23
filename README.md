@@ -5,7 +5,7 @@
   [![Simple Charts / COVID-19 New Cases](https://img.youtube.com/vi/QRcETyiTz3o/0.jpg)](https://www.youtube.com/watch?v=QRcETyiTz3o "Simple Charts / COVID-19 New Cases")
 
 ## Data Source
-  1. COVID-19 Dataset by Our World in Data  
+  - COVID-19 Dataset by Our World in Data  
      https://github.com/owid/covid-19-data
 
 ## Setup  
