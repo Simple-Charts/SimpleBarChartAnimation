@@ -1,5 +1,6 @@
-# Simple Bar Chart Race
-
+# Simple Bar Chart Race  
+  This is the simplified source code for creationg a bar chart race animation.  
+  
 ## Setup
 
   1. install Anaconda3-2020.02  
