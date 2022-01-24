@@ -55,7 +55,8 @@ for i in tqdm(range(len(df_value))):
     ax.xaxis.get_offset_text().set_visible(False)
     plt.tight_layout()
     offset = ax.xaxis.get_offset_text().get_text()[2:]
-    ax.text(1, 1.2, "x" + rf"$10^{{{str(offset)}}}$", va='top', ha='right', transform=ax.transAxes, fontsize = tick_offset_fontsize)
+    if offset !='':
+        ax.text(1, 1.2, "x" + rf"$10^{{{str(offset)}}}$", va='top', ha='right', transform=ax.transAxes, fontsize = tick_offset_fontsize)
     ax.grid(which='major', axis='x', linestyle='-')
     ax.set_axisbelow(True)
     [spine.set_visible(False) for spine in ax.spines.values()]
