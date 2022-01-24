@@ -1,5 +1,5 @@
-# Simple Bar Chart Race  
-  This is the simplified source code for creating a bar chart race animation.  
+# Simple Bar Chart Animation  
+  This is the simplified source code for creating a bar chart animation.  
 
 ## Example  
   [![Simple Charts / COVID-19 New Cases](https://img.youtube.com/vi/QRcETyiTz3o/0.jpg)](https://www.youtube.com/watch?v=QRcETyiTz3o "Simple Charts / COVID-19 New Cases")
