@@ -2,7 +2,7 @@
   This is the simplified source code for creating a bar chart animation.  
 
 ## Example  
-  [![Simple Charts / COVID-19 Cases and Deaths](https://img.youtube.com/vi/UiOHQF8lKxA/0.jpg)](https://www.youtube.com/watch?v=UiOHQF8lKxA "Simple Charts / COVID-19 Cases and Deaths")
+  [![Simple Charts / COVID-19 Cases and Deaths](https://img.youtube.com/vi/JmKJj9JH1b8/0.jpg)](https://www.youtube.com/watch?v=JmKJj9JH1b8 "Simple Charts / COVID-19 Cases and Deaths")
 
 ## Data Source
   - COVID-19 Dataset by Our World in Data  
