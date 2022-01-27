@@ -11,7 +11,7 @@ folder4 = 'C:/Users/****/Desktop/bca4'
 images = 3651
 video_height = 1000
 video_width = 1600
-video_fps = 15
+video_fps = 30
 
 if not os.path.exists("image"):
     os.mkdir("image")
